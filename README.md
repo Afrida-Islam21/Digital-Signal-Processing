@@ -1,14 +1,14 @@
 ---
 
 author: "Afrida Islam"
-course: "EEE343 / ECE343 – Digital Signal Processing"
+course: "EEE343 – Digital Signal Processing"
 institution: "BRAC University"
 semester: "Spring 2024"
 language: "MATLAB"
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=500&color=0EA5E9&center=true&vCenter=true&width=700&lines=Digital+Signal+Processing+EEE+243;From+Theory+to+Frequency+Domain;Windowing+Techniques+in+MATLAB;Rectangular+%7C+Hanning+%7C+Hamming" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=500&color=0EA5E9&center=true&vCenter=true&width=700&lines=Digital+Signal+Processing+||+EEE+343;From+Theory+to+Frequency+Domain;Windowing+Techniques+in+MATLAB;Rectangular+%7C+Hanning+%7C+Hamming" />
 </p>
 
 <p align="center">
